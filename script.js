@@ -5,6 +5,6 @@ function toggleNewsLetter(){
 
     newsLetter.classList.toggle("active");
 }
-function lastFun(){
+function signUp(){
     alert("You have subscribed successfully Thankyou!");
 }
